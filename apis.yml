@@ -40,7 +40,7 @@ x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
-x-status: defunct-acquired
+x-status: defunct
 x-status-note: Acquired by Snap Inc. (early 2021); no active independent API surface found.
 tags:
 - Company
@@ -49,6 +49,7 @@ tags:
 - Instructional Video
 - Acquired
 - Lightspeed Portfolio
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
